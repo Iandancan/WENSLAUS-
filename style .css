@@ -1,0 +1,34 @@
+.logo{
+    border:1px ;
+    font-size: larger;
+    font-style: italic;
+    font-weight: 100;
+    color:black;
+}
+.back{
+    background-color: orange;width: 1500px; height: 500px;
+    
+}
+.text{
+    padding-top: 100px;
+padding-left: 200px;  
+}
+.HOME{
+padding: 10px;
+}
+.RESERVATION{
+padding: 10px;
+margin-left: 50px;
+margin-right: 50px;
+}
+.SIGN_IN{
+padding: 10px;
+margin-left: 50px;
+margin-right: 50px;
+}
+.SIGN_OUT{
+padding: 10px;
+margin-left: 50px;
+margin-right: 50px;
+}
+
